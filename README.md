@@ -10,7 +10,7 @@
    > * [main.c](https://github.com/KcasTischaWattt/Comp-Arc-HW3/blob/main/c-files/main.c)
    > * [countRoot.c](https://github.com/KcasTischaWattt/Comp-Arc-HW3/blob/main/c-files/countRoot.c)
 ### 2. Программа проассемблирована и откомпилирована без оптимизирующих опций, в коде программы прокомментированы переменные:
-   > * [main.s](https://github.com/KcasTischaWattt/Comp-Arc-HW3/blob/main/asm-files/Main.s)
+   > * [main.s](https://github.com/KcasTischaWattt/Comp-Arc-HW3/blob/main/asm-files/main.s)
    > * [countRoot.s](https://github.com/KcasTischaWattt/Comp-Arc-HW3/blob/main/asm-files/countRoot.s)
     
    ### <br> Вот файлик со всеми переменными для удобства:
