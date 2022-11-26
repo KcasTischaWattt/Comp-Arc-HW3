@@ -7,11 +7,11 @@
 
 ## На 4 балла:
  ### 1. Приведено решение задачи на С:
-   > * [main.c](https://github.com/KcasTischaWattt/Comp-Arc-HW2/blob/main/c_files/main.c)
-   > * [changestring.c](https://github.com/KcasTischaWattt/Comp-Arc-HW2/blob/main/c_files/changesring.c)
+   > * [main.c](https://github.com/KcasTischaWattt/Comp-Arc-HW3/blob/main/c-files/main.c)
+   > * [changestring.c](https://github.com/KcasTischaWattt/Comp-Arc-HW3/blob/main/c-files/countRoot.c)
 ### 2. Программа проассемблирована и откомпилирована без оптимизирующих опций, в коде программы прокомментированы переменные:
-   > * [main.s](https://github.com/KcasTischaWattt/Comp-Arc-HW2/blob/main/Assembly/main.s)
-   > * [changestring.s](https://github.com/KcasTischaWattt/Comp-Arc-HW2/blob/main/Assembly/changestring.s)
+   > * [main.s](https://github.com/KcasTischaWattt/Comp-Arc-HW3/blob/main/asm-files/Main.s)
+   > * [changestring.s](https://github.com/KcasTischaWattt/Comp-Arc-HW3/blob/main/asm-files/countRoot.s)
     
    ### <br> Вот файлик со всеми переменными для удобства:
    > * [Переменные](https://github.com/KcasTischaWattt/Comp-Arc-HW2/blob/main/Other_files/Variables.md)
