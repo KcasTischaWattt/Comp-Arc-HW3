@@ -34,7 +34,7 @@ countRoot:
 	push	rbp
 	mov	rbp, rsp
 	sub	rsp, 40
-	movsd	QWORD PTR -40[rbp], xmm0 # double x
+	movsd	QWORD PTR -40[rbp], xmm0 # Первый параметр - double x
 	movsd	xmm1, QWORD PTR -40[rbp]
 	movsd	xmm0, QWORD PTR .LC0[rip]
 	mulsd	xmm1, xmm0
