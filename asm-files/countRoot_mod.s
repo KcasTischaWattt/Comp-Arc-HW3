@@ -59,10 +59,10 @@ countRoot:
 	mov	eax, r12d
 	mov	rdx, QWORD PTR -24[rbp]
 	imul	rax, rdx
-	mov	QWORD PTR -24[rbp], rax
+	mov	QWORD PTR -24[rbp], rax 
 	cvtsi2sd	xmm0, r12d
-	mov	rax, QWORD PTR -40[rbp]
-	movapd	xmm1, xmm0
+	mov	rax, QWORD PTR -40[rbp] # Передача double x в pow
+	movapd	xmm1, xmm0	# Передача i в pow
 	movq	xmm0, rax
 	call	pow
 	mulsd	xmm0, QWORD PTR -16[rbp]
